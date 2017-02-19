@@ -1,0 +1,43 @@
+[
+    {
+        "image" : "dwayne.png",
+        "name" : "Dwayne Johnson" ,
+        "bio" : "Born in California and raised between New Zealand and the U.S. states of Hawaii and Pennsylvania, Johnson was a college football player for the University of Miami, where he won a national championship on the 1991 Miami Hurricanes football team. He later played for the Calgary Stampeders in the Canadian Football League and was cut two months into the 1995 season. This led him to become a professional wrestler like his grandfather, Peter Maivia, and his father, Rocky Johnson, from whom he also inherited his Canadian citizenship"
+        
+    }
+    ,
+    {
+        "image" : "kohli.png",
+        "name" : "Virat Kohli" ,
+        "bio": "Born and raised in Delhi, Kohli represented the city's cricket team at various age-group levels before making his first-class debut in 2006. He captained India Under-19s to victory at the 2008 Under-19 World Cup in Malaysia, and a few months later, made his ODI debut for India against Sri Lanka at the age of 19. Initially having played as a reserve batsman in the Indian team, he soon established himself as a regular in the ODI middle-order and was part of the squad that won the 2011 World Cup. "
+        
+    }
+    ,
+    {
+        "image" : "kristen.png",
+        "name" : "Kristen" ,
+        "bio": "Kristen Jaymes Stewart is an American actress and model. Born in Los Angeles to parents working in show business, Stewart began her acting career in 1997 with uncredited roles and a minor character "
+        
+    }
+    ,
+    {
+        "image" : "mark.png",
+        "name" : "Mark Zuckerberg" ,
+        "bio": "Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. He is the chairman, chief executive officer, and co-founder of Facebook. His net worth is estimated to be US $53.6 billion as of 2017, ranking him the 5th richest person in the world."
+        
+    }
+    ,
+    {
+        "image" : "messi.png",
+        "name" : "Lionel Messi" ,
+        "bio": "Lionel Andrés 'Leo' Messi is an Argentine professional footballer who plays as a forward for Spanish club FC Barcelona and captains the Argentina national team."
+        
+    }
+    ,
+    {
+        "image" : "namo.png",
+        "name" : "Narendra Modi" ,
+        "bio": "Narendra Damodardas Modi is an Indian politician who is the 14th and current Prime Minister of India, in office since May 2014. He was the Chief Minister of Gujarat from 2001 to 2014, and is the Member of Parliament for Varanasi."
+        
+    }
+]
